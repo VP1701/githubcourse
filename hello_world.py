@@ -1,4 +1,3 @@
 print("Hello world!")
 feature/create-awesome
-
-    print("Hello from release")
+print("Hello from release")
